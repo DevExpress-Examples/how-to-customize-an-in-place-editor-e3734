@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomInplaceEditor.xaml](./CS/SilverlightApplication1/CustomInplaceEditor.xaml) (VB: [CustomInplaceEditor.xaml.vb](./VB/SilverlightApplication1/CustomInplaceEditor.xaml.vb))
+* [CustomInplaceEditor.xaml.cs](./CS/SilverlightApplication1/CustomInplaceEditor.xaml.cs) (VB: [CustomInplaceEditor.xaml.vb](./VB/SilverlightApplication1/CustomInplaceEditor.xaml.vb))
+* [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+<!-- default file list end -->
 # How to customize an in-place editor
 
 
