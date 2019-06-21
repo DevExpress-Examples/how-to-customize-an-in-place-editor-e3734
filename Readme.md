@@ -7,6 +7,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to customize an in-place editor
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3734)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to replace a standard in-place editor with a custom one.</p>
